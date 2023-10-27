@@ -1,5 +1,5 @@
 ## Acerca de mí 🖖
-Soy **Manuel Alejandro Carrascal Arias**, un desarrollador Full-Stack al que le fascina el mundo del desarrollo web asi como explorar nuevas tecnologías y aprender cosas nuevas cada día. Soy un estudiante de la UFPSO (Universidad Francisco De Paula Santander Ocaña).
+Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fascina el mundo del desarrollo web asi como explorar nuevas tecnologías y aprender cosas nuevas cada día. Soy un estudiante de la UFPSO (Universidad Francisco De Paula Santander Ocaña).
 
 ## Habilidades técnicas 👨‍💻
 - Lenguajes de programación: **Java**, **JavaScript**, **TypeScript**, **php**, **Dart**, **python**,
