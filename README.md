@@ -11,8 +11,7 @@ Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fas
  Por si quieres contactarme aqui dejo mi correo: tricdiart@gmail.com
 
 ## Estadísticas de Github
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical" style="height: 180px;"/>
 </div>
-
