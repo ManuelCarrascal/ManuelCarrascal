@@ -9,9 +9,10 @@ Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fas
 
 ## Contacto
  Por si quieres contactarme aqui dejo mi correo: tricdiart@gmail.com
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical) 
 
+## Estadísticas de Github
+<div align="center">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical"/>
+</div>
 
