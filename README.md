@@ -12,7 +12,7 @@ Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fas
 
 ## Estadísticas de Github
 <div align="center">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact"/>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCarrascal&theme=radical&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ManuelCarrascal&show_icons=true&theme=radical"/>
 </div>
 
