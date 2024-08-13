@@ -5,8 +5,8 @@ Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fas
 - Lenguajes de programación: **Java**, **JavaScript**, **TypeScript**
 - Frameworks y librerías: **React**, **Angular**, **Spring**, **NextJs**, **Express.js**, **Bootstrap**,**Tailwind**,**PrimeFaces**.
 - Herramientas y tecnologías: **Github**, **MongoDb**, **MySQL**, **PostgreSQL**,
-- he trabajado bajo metodologias agiles, asi como tambien estoy entrando en el mundo de **DevOps** y **DevSecOps**.
-
+- Tengo experiencia en metodologías ágiles y actualmente estoy expandiendo mis conocimientos en DevOps y DevSecOps para integrar mejores prácticas de desarrollo seguro y automatización.
+  Además, me gusta colaborar en equipo, resolver problemas complejos, y siempre busco aprender y mejorar en mi carrera.
 ## Contacto
  Por si quieres contactarme aqui dejo mi correo: tricdiart@gmail.com
 
