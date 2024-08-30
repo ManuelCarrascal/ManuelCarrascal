@@ -3,7 +3,7 @@ Soy **Manuel Alejandro Carrascal Arias**, desarrollador Full-Stack al que le fas
 
 ## Habilidades técnicas 👨‍💻
 - Lenguajes de programación: **Java**, **JavaScript**, **TypeScript**
-- Frameworks y librerías: **React**, **Angular**, **Spring**, **NextJs**, **Express.js**, **Bootstrap**,**Tailwind**,**PrimeFaces**.
+- Frameworks y librerías: **React**, **Angular**, **Spring**, **NextJs**, **Express.js**, **Tailwind**, **PrimeFaces**.
 - Herramientas y tecnologías: **Github**, **MongoDb**, **MySQL**, **PostgreSQL**,
 - Tengo experiencia en metodologías ágiles y actualmente estoy expandiendo mis conocimientos en DevOps y DevSecOps para integrar mejores prácticas de desarrollo seguro y automatización.
   Además, me gusta colaborar en equipo, resolver problemas complejos, y siempre busco aprender y mejorar en mi carrera.
